@@ -12,10 +12,10 @@ export default class Shelves extends Component {
                 </div> 
                 <div className='shelf-container'>
              <div className = 'shelves'>
-                    <Link to='/bins/A'><div className = 'shelf'> Shelf A </div></Link>
-                    <Link to='/bins/B'><div className = 'shelf'> Shelf B </div></Link>
-                    <Link to='/bins/C'><div className = 'shelf'> Shelf C </div></Link>
-                    <Link to='/bins/D'><div className = 'shelf'> Shelf D </div></Link>
+                    <Link to='/BinA'><div className = 'shelf'> Shelf A </div></Link>
+                    <Link to='/BinB'><div className = 'shelf'> Shelf B </div></Link>
+                    <Link to='BinC'><div className = 'shelf'> Shelf C </div></Link>
+                    <Link to='BinD'><div className = 'shelf'> Shelf D </div></Link>
                 </div>
 
             </div>
