@@ -11,13 +11,13 @@ export default class Nav extends Component {
             <div>
             <div className="nav">
                 <header>
-                    <section>
+                    
                         <div className='nav-content'>
-                        <img src={image} width="50" height="50" />
+                        <img src={image} width="65" height="65" />
                         <a className='title' href = 'http://localhost:3000'>SHELFIE</a>
                         </div>
                         
-                    </section>
+                    
                 </header>
             </div>
             
