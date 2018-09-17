@@ -13,8 +13,8 @@ export default class Nav extends Component {
                 <header>
                     
                         <div className='nav-content'>
-                        <img src={image} width="65" height="65" />
-                        <a className='title' href = 'http://localhost:3000'>SHELFIE</a>
+                        < a href = 'http://localhost:3000'><img src={image} width="65" height="65" /></a>
+                        <a className='title'>SHELFIE</a>
                         </div>
                         
                     

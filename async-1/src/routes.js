@@ -7,5 +7,6 @@ export default (
     <Switch>
         <Route exact path='/' component={Shelves}/>
         <Route path='/BinA' component={BinA}/>
+        {/* <Route path="/:id" component={Test}/> */}
     </Switch>
 )
